@@ -24,12 +24,4 @@
 ---
 
 ## Getting Started
-```bash
-# Clone the repository
-git clone https://github.com/your-username/iClub-AI-Trading-Agents.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the demo
-python iClub_demo.py
+https://www.iclub.ai
